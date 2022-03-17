@@ -1,5 +1,6 @@
 # 문장요약모델 실행 gif
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90369173/158523858-97d2524e-84e2-4a5a-9fe5-8a1e435c6c28.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/90369173/158737820-99d7fd45-5a3d-46aa-ba6b-2d81f1742b8a.gif)
+
 
 
 
